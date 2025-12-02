@@ -9,6 +9,6 @@ go install golang.org/x/tools/cmd/gonew@latest
 
 Copy the template with gonew and cd into it
 ```bash
-gonew github.com/franciscofferraz/go-nuts example.com/myserver
+gonew github.com/jamal5p/Nuts example.com/myserver
 cd ./myserver
 ```
